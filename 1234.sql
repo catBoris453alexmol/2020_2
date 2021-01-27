@@ -1,0 +1,1 @@
+SELECT * FROM autor_books.genre;
